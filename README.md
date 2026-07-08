@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Dhruv302006
 - 👀 I’m interested in Software Devlopment
-- 🌱 I’m currently learning Web Devlopment
+- 🌱 I’m currently learning FrontEnd, BackEnd, Mongo db
+- 🌱 I've Completed 300+ problems of LeetCode , Achieved 100 Days batch
 - 💞️ I’m looking to collaborate on Linked in
-- 📫 How to reach me : you can contact me throgh my Gmail thakurdhruv234@gmail.com
+- 📫 How to reach me : you can contact me throgh my Gmail milindt.102@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
 
